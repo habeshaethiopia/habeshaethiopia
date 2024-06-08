@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m ALX_SE graduate specialize in backend
-- 🌱 I’m currently Addis Ababa science and technology university software engineering (full stack)
+- 🌱 I’m currently studying software engineering Addis Ababa Science and technology university 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
