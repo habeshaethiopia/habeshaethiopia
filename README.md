@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my self to be one of best
-- 🌱 I’m currently learning at ALX and Addis Ababa science and technology university software engineering (full stack)
+- 🔭 I’m ALX_SE graduate specialize in backend
+- 🌱 I’m currently Addis Ababa science and technology university software engineering (full stack)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
