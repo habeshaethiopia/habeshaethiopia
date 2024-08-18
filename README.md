@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adane272364101" target="blank"><img src="https://img.shields.io/twitter/follow/adane272364101?logo=twitter&style=for-the-badge" alt="adane272364101" /></a> </p>
 
-- 💬 Ask me about **python, flask, bash**
+- 💬 Ask me about **python, flask, bash, go, gin**
 
 - 📫 How to reach me **adanemoges6@gmail.com**
 
